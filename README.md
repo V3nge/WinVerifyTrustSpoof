@@ -1,3 +1,3 @@
 # WinVerifyTrustSpoof
  Makes WinVerifyTrust always return 0 (ERROR_SUCCESS aka verified signature). 
- Memory protection changes not needed
+ Memory protection changes not needed, but are there just in case.
