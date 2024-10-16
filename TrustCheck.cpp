@@ -1,5 +1,11 @@
 // Taken from Microsoft Documentation
 // https://learn.microsoft.com/en-us/windows/win32/api/wintrust/nf-wintrust-winverifytrust
+// https://learn.microsoft.com/en-us/windows/win32/seccrypto/example-c-program--verifying-the-signature-of-a-pe-file
+
+//-------------------------------------------------------------------
+// Copyright (C) Microsoft.  All rights reserved.
+// Example of verifying the embedded signature of a PE file by using 
+// the WinVerifyTrust function.
 
 #define _UNICODE 1
 #define UNICODE 1
